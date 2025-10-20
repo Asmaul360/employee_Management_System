@@ -117,7 +117,7 @@ Contributions are welcome! Feel free to fork and submit PRs.
 ## 📞 Contact
 
 **Author**: Asmaul Mallick
-📧 Email: _(add here)_
+📧 Email: asmaulmallick360@gmial.com
 🔗 GitHub: [https://github.com/Asmaul360](https://github.com/Asmaul360)
 
 ---
