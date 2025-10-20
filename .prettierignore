@@ -1,0 +1,18 @@
+# Environment files
+.env
+.env.*
+.env.sample*
+
+# Node modules
+node_modules/
+
+# VSCode settings
+.vscode/
+
+# Build folder
+dist/
+
+# Optional: logs
+logs
+*.log
+npm-debug.log*
